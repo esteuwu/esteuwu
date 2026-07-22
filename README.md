@@ -7,6 +7,6 @@ Jack of all trades, master of none. Or maybe not. I don't know.
   - [motorola-astro](https://wiki.postmarketos.org/wiki/Motorola_One_Fusion_(motorola-astro))
     - First device to mainline. Got it to a somewhat working state.
   - [motorola-bronco](https://wiki.postmarketos.org/wiki/Motorola_ThinkPhone_by_motorola_(motorola-bronco))
-    - Semi-daily driver. Writing code to make it possible :D
+    - Second device to mainline and semi-daily driver. Writing code to make it possible :D
 
 In case you need to contact me, you can do so on Signal as `@esteuwu.89`.
