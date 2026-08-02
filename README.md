@@ -1,5 +1,7 @@
 Jack of all trades, master of none. Or maybe not. I don't know.
 
+- [LineageOS](https://lineageos.org/)
+  - Check out my contributions in [here](https://review.lineageos.org/q/(author:esteuwu@proton.me+OR+owner:esteuwu@proton.me)+status:merged)
 - [Linux kernel](https://www.kernel.org/)
   - Check out my contributions in [here](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?h=master&qt=author&q=Esteban+Urrutia)
   - [Many more to come!](https://github.com/esteuwu/linux-patches)
